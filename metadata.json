@@ -1,0 +1,6 @@
+{
+  "name": "Advance Dental Clinic",
+  "description": "Premium appointment booking platform for Advance Dental & Dr. Prasad Advanced Dental Treatment Centre in Vijayanagar, Bengaluru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
